@@ -1,6 +1,6 @@
 #!/bin/bash
 TELLME_HOME=/home/stu/projects/github/stupenrose/tellmewhen
-ALERT=$TELLME_HOME/alert.wav
+ALERT=$TELLME_HOME/applause.wav
 PROBLEM_ALERT=$TELLME_HOME/angry.wav
 . ~/.tellmewhen # <- for secrets like the TWILIO_PHONE_NUMBER TWILIO_ACCOUNT_ID & TWILIO_TOKEN & your PHONE_NUMBER
 ##############################################
